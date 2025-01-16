@@ -1,4 +1,4 @@
-# BlogBackend Project
+# HttpServlet With Embed Tomcat Project
 
 ## Overview
 
@@ -85,6 +85,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+Your Name - [@sasibhumaraju](https://x.com/sasibhumaraju) - your_email@example.com
 
-Project Link: [https://github.com/yourusername/BlogBackend](https://github.com/yourusername/BlogBackend)
+
